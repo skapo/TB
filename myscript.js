@@ -4,8 +4,8 @@
 // @version      1.0.3
 // @description  BitTube Never Stop Ever Again
 // @author       ReaperBot
-// @updateURL    https://raw.githubusercontent.com/skapo/js/master/BT.js
-// @downloadURL  https://raw.githubusercontent.com/skapo/js/master/BT.js
+// @updateURL    https://github.com/skapo/TB/blob/master/myscript.js
+// @downloadURL  https://github.com/skapo/TB/blob/master/myscript.js
 // @match        *.bit.tube/*
 // @grant        none
 // ==/UserScript==
