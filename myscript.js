@@ -46,7 +46,7 @@
         return (Math.floor(Math.random() * (max - min)) + min) * 1000;
     }
 
-    setInterval(reloadOk, getRndInteger(3600, 6300));
+    setInterval(reloadOk, getRndInteger(3500, 6200));
 
     function reloadOk() {
         window.location.href = random_item(fileme)
