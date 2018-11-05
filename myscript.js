@@ -18,8 +18,8 @@
     
 
     var fileme = [
-        'https://bit.tube/play?hash=BRenwDPKEriE4qpvYJ7P&channel=38479',
         'https://bit.tube/play?hash=BR9IUE5FMSXXh9rOIDM2&channel=36400',
+        'https://bit.tube/play?hash=BRenwDPKEriE4qpvYJ7P&channel=38479',
     ];
     
     setInterval(mySearch, 5000);
