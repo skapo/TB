@@ -18,7 +18,7 @@
     
 
     var fileme = [
-        'https://bit.tube/play?hash=BRp5tEwigij9zc8DAEhw&channel=37042&for=necro&isyt=false',
+        'https://bit.tube/play?hash=BRUchD6p5ba0KOSUGN7R&channel=37042',
         'https://bit.tube/play?hash=BRenwDPKEriE4qpvYJ7P&channel=38479',
     ];
     
